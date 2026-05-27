@@ -6,7 +6,7 @@ Our team's implementation for the \[IEEE SMC 2026 AI-Powered Collaborative Auton
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -14,23 +14,23 @@ We control a QCar2 (ground vehicle) and a QDrone2 (aerial drone) in a simulated 
 
 
 
-\## Setup
+## Setup
 
 
 
-\### Prerequisites
+### Prerequisites
 
 
 
-\- Windows 10/11
+- Windows 10/11
 
-\- Python 3.12
+- Python 3.12
 
-\- Quanser QLabs + QUARC
+- Quanser QLabs + QUARC
 
-\- Quanser SDK Python packages
+- Quanser SDK Python packages
 
-\- AICA Challenge content subscription
+- AICA Challenge content subscription
 
 
 
@@ -38,7 +38,7 @@ See \[`docs/SETUP.md`](docs/SETUP.md) for detailed install instructions, gotchas
 
 
 
-\### Quick start
+### Quick start
 
 
 
