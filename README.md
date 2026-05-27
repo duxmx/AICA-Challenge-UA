@@ -46,9 +46,9 @@ See \[`docs/SETUP.md`](docs/SETUP.md) for detailed install instructions, gotchas
 
 ```bash
 
-&#x20;  git clone git@github.com:duxmx/aica-challenge-2026.git
+  git clone git@github.com:duxmx/aica-challenge-2026.git
 
-&#x20;  cd aica-challenge-2026
+  cd aica-challenge-2026
 
 ```
 
@@ -60,7 +60,7 @@ See \[`docs/SETUP.md`](docs/SETUP.md) for detailed install instructions, gotchas
 
 ```powershell
 
-&#x20;  .\\run\_all.bat
+  .\\run\_all.bat
 
 ```
 
