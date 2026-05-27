@@ -1,4 +1,4 @@
-\# AICA Challenge 2026 — Team UA
+# AICA Challenge 2026 — Team UA
 
 
 
