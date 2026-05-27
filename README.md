@@ -118,7 +118,7 @@ See \[`CONTRIBUTING.md`](CONTRIBUTING.md) for branch naming, commit conventions,
 
 - Esther Desroche — \[Team Member]
 
-- Samin Yasar — \[Graduate Mentor, Team Membor]
+- Samin Yasar — \[Graduate Mentor, Team Member]
 
 - PI: Dr. Mahmoud Mahmoud, University of Alabama
 
