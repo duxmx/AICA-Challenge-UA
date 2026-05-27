@@ -1,12 +1,12 @@
-\# AICA Challenge 2026 — Team UA
+# AICA Challenge 2026 — Team UA
 
 
 
-Our team's implementation for the \[IEEE SMC 2026 AI-Powered Collaborative Autonomy Challenge](https://utadnclab.github.io/AICA-Competition-Documentation-2026/).
+Our team's implementation for the \[IEEE SMC 2026 AI-Powered Collaborative Autonomy Challenge]([https://utadnclab.github.io/AICA-Competition-Documentation-2026/](https://utadnclab.github.io/AICA-Competition-Documentation-2026/01_Core_Guides/Virtual_Stage_Competiton_Guide.html#core-principles-for-multimodal-delivery)).
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -14,59 +14,59 @@ We control a QCar2 (ground vehicle) and a QDrone2 (aerial drone) in a simulated 
 
 
 
-\## Setup
+## Setup
 
 
 
-\### Prerequisites
+### Prerequisites
 
 
 
-\- Windows 10/11
+- Windows 10/11
 
-\- Python 3.12
+- Python 3.12
 
-\- Quanser QLabs + QUARC
+- Quanser QLabs + QUARC
 
-\- Quanser SDK Python packages
+- Quanser SDK Python packages
 
-\- AICA Challenge content subscription
-
-
-
-See \[`docs/SETUP.md`](docs/SETUP.md) for detailed install instructions, gotchas, and troubleshooting.
+- AICA Challenge content subscription
 
 
 
-\### Quick start
+See [`docs/SETUP.md`](docs/SETUP.md) for detailed install instructions, gotchas, and troubleshooting.
 
 
 
-1\. Clone this repo:
+### Quick start
+
+
+
+1. Clone this repo:
 
 ```bash
 
-&#x20;  git clone git@github.com:duxmx/aica-challenge-2026.git
+  git clone git@github.com:duxmx/aica-challenge-2026.git
 
-&#x20;  cd aica-challenge-2026
+  cd aica-challenge-2026
 
 ```
 
-2\. Follow `docs/SETUP.md` to install Quanser tools and configure environment variables.
+2. Follow `docs/SETUP.md` to install Quanser tools and configure environment variables.
 
-3\. Open QLabs from the Start menu and wait for it to fully load.
+3. Open QLabs from the Start menu and wait for it to fully load.
 
-4\. Run the simulation:
+4. Run the simulation:
 
 ```powershell
 
-&#x20;  .\\run\_all.bat
+  .\\run\_all.bat
 
 ```
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -102,7 +102,7 @@ See \[`docs/SETUP.md`](docs/SETUP.md) for detailed install instructions, gotchas
 
 
 
-\## Development
+## Development
 
 
 
@@ -110,21 +110,21 @@ See \[`CONTRIBUTING.md`](CONTRIBUTING.md) for branch naming, commit conventions,
 
 
 
-\## Team
+## Team
 
 
 
-\- Maddux Taukave-Castro — \[Team Member]
+- Maddux Taukave-Castro — \[Team Member]
 
-\- Esther Desroche — \[Team Member]
+- Esther Desroche — \[Team Member]
 
-\- Samin Yasar — \[Graduate Mentor, Team Membor]
+- Samin Yasar — \[Graduate Mentor, Team Member]
 
-\- PI: Dr. Mahmoud Mahmoud, University of Alabama
+- PI: Dr. Mahmoud Mahmoud, University of Alabama
 
 
 
-\## Acknowledgments
+## Acknowledgments
 
 
 
