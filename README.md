@@ -2,7 +2,7 @@
 
 
 
-Our team's implementation for the \[IEEE SMC 2026 AI-Powered Collaborative Autonomy Challenge](https://utadnclab.github.io/AICA-Competition-Documentation-2026/).
+Our team's implementation for the \[IEEE SMC 2026 AI-Powered Collaborative Autonomy Challenge]([https://utadnclab.github.io/AICA-Competition-Documentation-2026/](https://utadnclab.github.io/AICA-Competition-Documentation-2026/03_Setup/System_and_Software_setup.html)).
 
 
 
