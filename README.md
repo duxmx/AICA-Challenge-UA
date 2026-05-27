@@ -42,7 +42,7 @@ See \[`docs/SETUP.md`](docs/SETUP.md) for detailed install instructions, gotchas
 
 
 
-1\. Clone this repo:
+1. Clone this repo:
 
 ```bash
 
@@ -52,11 +52,11 @@ See \[`docs/SETUP.md`](docs/SETUP.md) for detailed install instructions, gotchas
 
 ```
 
-2\. Follow `docs/SETUP.md` to install Quanser tools and configure environment variables.
+2. Follow `docs/SETUP.md` to install Quanser tools and configure environment variables.
 
-3\. Open QLabs from the Start menu and wait for it to fully load.
+3. Open QLabs from the Start menu and wait for it to fully load.
 
-4\. Run the simulation:
+4. Run the simulation:
 
 ```powershell
 
@@ -66,7 +66,7 @@ See \[`docs/SETUP.md`](docs/SETUP.md) for detailed install instructions, gotchas
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -102,7 +102,7 @@ See \[`docs/SETUP.md`](docs/SETUP.md) for detailed install instructions, gotchas
 
 
 
-\## Development
+## Development
 
 
 
@@ -110,21 +110,21 @@ See \[`CONTRIBUTING.md`](CONTRIBUTING.md) for branch naming, commit conventions,
 
 
 
-\## Team
+## Team
 
 
 
-\- Maddux Taukave-Castro — \[Team Member]
+- Maddux Taukave-Castro — \[Team Member]
 
-\- Esther Desroche — \[Team Member]
+- Esther Desroche — \[Team Member]
 
-\- Samin Yasar — \[Graduate Mentor, Team Membor]
+- Samin Yasar — \[Graduate Mentor, Team Membor]
 
-\- PI: Dr. Mahmoud Mahmoud, University of Alabama
+- PI: Dr. Mahmoud Mahmoud, University of Alabama
 
 
 
-\## Acknowledgments
+## Acknowledgments
 
 
 
